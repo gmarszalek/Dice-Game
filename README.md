@@ -1,4 +1,4 @@
-# JavaScript - dice_game
+# JavaScript - dice-game
 
 GAME RULES:
 
