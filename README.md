@@ -1,5 +1,4 @@
-# JavaScript - dice-game
-
+# Dice Game - JavaScript app
 GAME RULES:
 <ul>
   <li>The game has 2 players, playing in rounds</li>
